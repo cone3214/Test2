@@ -15,6 +15,7 @@
                 background-color: #fff;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
+                jhasdghjs
                 font-weight: 200;
                 height: 100vh;
                 margin: 0;
@@ -26,6 +27,7 @@
 
             .flex-center {
                 align-items: center;
+                ahjasd
                 display: flex;
                 justify-content: center;
             }
@@ -74,6 +76,7 @@
 
                         @if (Route::has('register'))
                             <a href="{{ route('register') }}">Register</a>
+                            sdfsd
                         @endif
                     @endauth
                 </div>
